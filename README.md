@@ -19,4 +19,4 @@ Dans chaque lot de fichiers, vous trouvez le matériel nécessaire à la composi
 
 1 seul lot de cartes doit être utilisé à la fois !
 
-De plus, pour compléter votre jeu, il vous faudra une boîte de Petri 9 cm de diamètre qui permettra de rassembler les bactéries au début du jeu.
+De plus, pour compléter votre jeu, il vous faudra une boîte de Petri 9 cm de diamètre qui permettra de rassembler les bactéries au début du jeu ainsi que les règles du jeu.
